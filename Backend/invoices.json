@@ -1,0 +1,44 @@
+{
+    "KAPYUUSBR3YTB2RH": {
+        "id": "KAPYUUSBR3YTB2RH",
+        "normalized_id": "KAPYUUSBR3YTB2RH",
+        "client_name": "Apple",
+        "client_email": "Apple@example.com",
+        "description": "Logo design",
+        "amount": 60000.0,
+        "status": "Paid",
+        "payment_link": "https://www.sandbox.paypal.com/invoice/p/#KAPYUUSBR3YTB2RH"
+    },
+    "C5VRKGEB62MVQT47": {
+        "id": "C5VRKGEB62MVQT47",
+        "normalized_id": "C5VRKGEB62MVQT47",
+        "client_name": "Nvidia",
+        "client_email": "Nvidia@example.com",
+        "description": "Logo design",
+        "amount": 80000.0,
+        "status": "Paid",
+        "payment_link": "https://www.sandbox.paypal.com/invoice/p/#C5VRKGEB62MVQT47"
+    },
+    "GV3XYB4F8AL5BGSY": {
+        "id": "GV3XYB4F8AL5BGSY",
+        "normalized_id": "GV3XYB4F8AL5BGSY",
+        "client_name": "Microsoft",
+        "client_email": "microsoft@example.com",
+        "description": "Build a React dashboard",
+        "category": "Software Development",
+        "amount": 200000.0,
+        "status": "Paid",
+        "payment_link": "https://www.sandbox.paypal.com/invoice/p/#GV3XYB4F8AL5BGSY"
+    },
+    "QY8SXW254LWF7YVW": {
+        "id": "QY8SXW254LWF7YVW",
+        "normalized_id": "QY8SXW254LWF7YVW",
+        "client_name": "Nvidia",
+        "client_email": "nvidia@example.com",
+        "description": "Logo design",
+        "category": "Design & Branding",
+        "amount": 300000.0,
+        "status": "Paid",
+        "payment_link": "https://www.sandbox.paypal.com/invoice/p/#QY8SXW254LWF7YVW"
+    }
+}
